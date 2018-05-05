@@ -1,6 +1,6 @@
-# Oracle APEX 系列文章：Oracle APEX, 让你秒变全栈开发的黑科技
-
 ![](https://ws1.sinaimg.cn/large/006By2pOgy1fqy4n04lv1j30s207oaeu.jpg)
+
+# Oracle APEX 系列文章：Oracle APEX, 让你秒变全栈开发的黑科技
 
 本文是钢哥的Oracle APEX系列文章中的其中一篇，完整 Oracle APEX 系列文章如下：
 - [Oracle APEX 系列文章1：Oracle APEX, 让你秒变全栈开发的黑科技](http://140.143.1.225/Oracle/Oracle-APEX/apex-series-1/)
