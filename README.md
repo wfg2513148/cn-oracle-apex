@@ -2,11 +2,12 @@
 
 # Oracle APEX 系列文章：Oracle APEX, 让你秒变全栈开发的黑科技
 
-本文是钢哥的Oracle APEX系列文章中的其中一篇，完整 Oracle APEX 系列文章如下：
+本文是钢哥的Oracle APEX系列文章中的第一篇，完整 Oracle APEX 系列文章如下：
 - [Oracle APEX 系列文章1：Oracle APEX, 让你秒变全栈开发的黑科技](http://140.143.1.225/Oracle/Oracle-APEX/apex-series-1/)
 - [Oracle APEX 系列文章2：在阿里云上打造属于你自己的APEX完整开发环境 (准备工作)](http://140.143.1.225/Oracle/Oracle-APEX/apex-series-2/)
 - [Oracle APEX 系列文章3：在阿里云上打造属于你自己的APEX完整开发环境 (安装CentOS, Tomcat, Nginx)](http://140.143.1.225/Oracle/Oracle-APEX/apex-series-3/)
 - [Oracle APEX 系列文章4：在阿里云上打造属于你自己的APEX完整开发环境 (安装XE, ORDS, APEX)](http://140.143.1.225/Oracle/Oracle-APEX/apex-series-4/)
+- [Oracle APEX 系列文章5：在阿里云上打造属于你自己的APEX完整开发环境 (进一步优化)](http://140.143.1.225/Oracle/Oracle-APEX/apex-series-5/)
 
 
 ## 引言
