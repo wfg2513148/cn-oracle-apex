@@ -173,3 +173,6 @@ Oracle APEX 是Oracle公司出品的基于Oracle数据库的一款Web应用快�
 - [https://apextips.blogspot.sg](https://apextips.blogspot.sg)
 - [https://oracle-base.com](https://oracle-base.com)
 - [http://spendolini.blogspot.sg](http://spendolini.blogspot.sg)
+
+![王方钢 | Oracle APEX Evangelist](https://ws1.sinaimg.cn/large/006By2pOly1fr2d34nurfj3076076gm2.jpg)
+王方钢 | Oracle APEX Evangelist
