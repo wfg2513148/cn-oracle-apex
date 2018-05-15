@@ -8,6 +8,8 @@
 - [Oracle APEX 系列文章3：在阿里云上打造属于你自己的APEX完整开发环境 (安装CentOS, Tomcat, Nginx)](http://140.143.1.225/Oracle/Oracle-APEX/apex-series-3/)
 - [Oracle APEX 系列文章4：在阿里云上打造属于你自己的APEX完整开发环境 (安装XE, ORDS, APEX)](http://140.143.1.225/Oracle/Oracle-APEX/apex-series-4/)
 - [Oracle APEX 系列文章5：在阿里云上打造属于你自己的APEX完整开发环境 (进一步优化)](http://140.143.1.225/Oracle/Oracle-APEX/apex-series-5/)
+- [Oracle APEX 系列文章6：Oracle APEX 到底适不适合企业环境？](http://140.143.1.225/Oracle/Oracle-APEX/apex-series-6/)
+
 
 
 ## 引言
