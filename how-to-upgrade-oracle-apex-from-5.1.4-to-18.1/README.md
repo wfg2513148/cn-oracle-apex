@@ -4,15 +4,7 @@
 
 ![](https://ws1.sinaimg.cn/large/006By2pOgy1frsj7crfv1j30mu0dw75b.jpg)
 
-This is the 8th blog about Oracle APEX, you can find the full series list as below：
-- [Oracle APEX 系列文章1：Oracle APEX, 让你秒变全栈开发的黑科技](https://wangfanggang.com/Oracle/Oracle-APEX/apex-series-1/)
-- [Oracle APEX 系列文章2：在阿里云上打造属于你自己的APEX完整开发环境 (安装 CentOS)](https://wangfanggang.com/Oracle/Oracle-APEX/apex-series-2/)
-- [Oracle APEX 系列文章3：在阿里云上打造属于你自己的APEX完整开发环境 (安装 Tomcat, Nginx)](https://wangfanggang.com/Oracle/Oracle-APEX/apex-series-3/)
-- [Oracle APEX 系列文章4：在阿里云上打造属于你自己的APEX完整开发环境 (安装XE, ORDS, APEX)](https://wangfanggang.com/Oracle/Oracle-APEX/apex-series-4/)
-- [Oracle APEX 系列文章5：在阿里云上打造属于你自己的APEX完整开发环境 (进一步优化)](https://wangfanggang.com/Oracle/Oracle-APEX/apex-series-5/)
-- [Oracle APEX 系列文章6：Oracle APEX 到底适不适合企业环境？](https://wangfanggang.com/Oracle/Oracle-APEX/apex-series-6/)
-- [Oracle APEX 系列文章7：Oracle APEX 18.1 新特性](https://wangfanggang.com/Oracle/Oracle-APEX/apex-series-7/)
-- [Oracle APEX 系列文章8：如何从 APEX 5.1.4 升级到 最新的 APEX 18.1](https://wangfanggang.com/Oracle/Oracle-APEX/apex-series-8/)
+Original blog: https://wangfanggang.com/Oracle/Oracle-APEX/how-to-upgrade-apex-from-5-1-4-to-18-1/
 
 ## Introduction
 Oracle APEX 18.1 has already been published several days, I believe most of apexers had tried it. The next thing we need to do is how to upgrade Oracle APEX from earlier version (such as 5.1.4) to the latest 18.1. 
