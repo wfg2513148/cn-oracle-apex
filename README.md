@@ -10,7 +10,7 @@
 - [Oracle APEX 系列文章5：在阿里云上打造属于你自己的APEX完整开发环境 (进一步优化)](https://wangfanggang.com/Oracle/Oracle-APEX/apex-series-5/)
 - [Oracle APEX 系列文章6：Oracle APEX 到底适不适合企业环境？](https://wangfanggang.com/Oracle/Oracle-APEX/apex-series-6/)
 - [Oracle APEX 系列文章7：Oracle APEX 18.1 新特性](https://wangfanggang.com/Oracle/Oracle-APEX/apex-series-7/)
-
+- [Oracle APEX 系列文章8：如何从 APEX 5.1.4 升级到 最新的 APEX 18.1](https://wangfanggang.com/Oracle/Oracle-APEX/apex-series-8/)
 
 
 ## 引言
