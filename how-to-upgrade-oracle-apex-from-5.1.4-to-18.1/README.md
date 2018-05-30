@@ -1,6 +1,26 @@
 # How to upgrade Oracle APEX from 5.1.4 to 18.1
 
-[TOC]
+<!-- TOC depthFrom:2 insertAnchor:true -->
+
+- [Introduction](#Introduction)
+- [Preparation](#Preparation)
+  - [Generate Configuration](#Upload-installation-media)
+  - [Upgrade JDK/JRE 1.8](#Upgrade-JDK/JRE-1.8)
+  - [Upgrade Tomcat Server](#Upgrade-Tomcat-Server)
+- [Upgrade APEX 18.1](#Upgrade-APEX-18.1)
+  - [Execute installation of APEX 18.1](#Execute-installation-of-APEX-18.1)
+  - [Copy apex static files to tomcat folder](#copy-apex-static-files-to-tomcat-folder)
+- [Upgrade ORDS 18.1](#Upgrade-ORDS-18.1)
+  - [Execute installation of ORDS](#Execute-installation-of-ORDS)
+  - [Deploy ords.war to Tomcat](#deploy-ords.war-to-Tomcat)
+  - [Validate ORDS deployment](#Validate-ORDS-deployment)
+- [Nginx Configiration (optional)](#Nginx-Configiration-(optional))
+- [Test your environment](#Test-your-environment)
+- [Conclution](#Conclution)
+
+
+
+<!-- /TOC -->
 
 ![](https://ws1.sinaimg.cn/large/006By2pOgy1frsj7crfv1j30mu0dw75b.jpg)
 
@@ -21,9 +41,6 @@ Oracle APEX 18.1 has already been published several days, I believe most of apex
 
 OK, let's begin the upgrade process. 
 
-<!-- more -->
-
----
 
 ## Preparation
 ### Upload installation media
@@ -148,7 +165,6 @@ Open your web explorer and type http://xxx.xxx.xxx.xxx:8080，you should also se
 ![](https://ws1.sinaimg.cn/large/006By2pOgy1frs88lo5wnj30sa0q7qah.jpg)
 
 
----
 
 ## Upgrade APEX 18.1
 ```bash
@@ -195,7 +211,7 @@ SQL> exit
 
 ![](https://ws1.sinaimg.cn/large/006By2pOgy1frs2ev4a38j30wo0ayq4k.jpg)
 
-### copy apex static files to tomcat folder
+### Copy apex static files to tomcat folder
 ```bash
 su - root
 
@@ -205,7 +221,6 @@ cp -a /u02/Media/apex/images/* /u01/tomcat8/webapps/i/
 chown -Rf tomcat:tomcat /u01/tomcat8/webapps/
 ```
 
----
 
 ## Upgrade ORDS 18.1
 ```bash
@@ -227,7 +242,7 @@ grant read privilege to make sure tomcat user could read files in folder `/u01/o
 chown -R tomcat:tomcat /u01/ords/conf
 ```
 
-### deploy ords.war to Tomcat
+### Deploy ords.war to Tomcat
 ```bash
 cp -a /u01/ords/ords.war /u01/tomcat8/webapps/
 
@@ -241,7 +256,7 @@ service tomcat restart
 open your web explorer, navigate to http://xxx.xxx.xxx.xxx:8080/ords . If you could see apex page, congratulations!!
 ![](https://ws1.sinaimg.cn/large/006By2pOgy1frsdevwzfij30py0ljq42.jpg)
 
----
+
 
 ## Nginx Configiration (optional)
 Review your nginx.conf and check if there are something need to be changed，such as path of static file folder `i`
@@ -259,7 +274,6 @@ Login APEX with your workspace, all applications are there. Perfect!!
 ![](https://ws1.sinaimg.cn/large/006By2pOgy1frsi1heqdcj328013s489.jpg)
 
 
----
 
 ## Conclution
 Now you have successfully upgraded your earlier version of APEX to the latest version 18.1. 
