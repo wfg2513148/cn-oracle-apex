@@ -1,16 +1,5 @@
----
-title: Oracle APEX 系列文章6：Oracle APEX 到底适不适合企业环境？
-copyright: true
-type: categories
-date: 2018-05-13 13:28:25
-categories:
-- Oracle
-- Oracle APEX
+# Oracle APEX 系列文章6：Oracle APEX 到底适不适合企业环境？
 
-tags:
-- Oracle
-- APEX
----
 
 
 ![](https://ws1.sinaimg.cn/large/006By2pOly1fr9nu8eldxj31r115owkv.jpg)

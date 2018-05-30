@@ -1,22 +1,4 @@
----
-title: Oracle APEX 系列文章2：在阿里云上打造属于你自己的APEX完整开发环境 (准备工作)
-copyright: true
-type: categories
-date: 2018-05-03 07:35:24
-categories:
-- Oracle
-- Oracle APEX
-
-tags:
-- Aliyun
-- CentOS
-- Tomcat
-- Nginx
-- ORDS
-- Oracle
-- APEX
-
----
+# Oracle APEX 系列文章2：在阿里云上打造属于你自己的APEX完整开发环境 (准备工作)
 
 ![](https://ws1.sinaimg.cn/large/006By2pOgy1fqy4n04lv1j30s207oaeu.jpg)
 

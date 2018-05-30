@@ -1,17 +1,5 @@
----
-title: Oracle APEX 系列文章7：Oracle APEX 18.1 新特性
-copyright: true
-type: categories
-date: 2018-05-26 00:41:00
-categories:
-- Oracle
-- Oracle APEX
+# Oracle APEX 系列文章7：Oracle APEX 18.1 新特性
 
-tags:
-- Oracle
-- APEX
-
----
 
 ![](https://ws1.sinaimg.cn/large/006By2pOgy1fro28cni9aj31cm0o2wyz.jpg)
 

@@ -1,23 +1,5 @@
----
-title: Oracle APEX 系列文章3：在阿里云上打造属于你自己的APEX完整开发环境 (安装CentOS, Tomcat, Nginx)
-copyright: true
-type: categories
-date: 2018-05-03 14:39:56
-categories:
-- Oracle
-- Oracle APEX
+# Oracle APEX 系列文章3：在阿里云上打造属于你自己的APEX完整开发环境 (安装CentOS, Tomcat, Nginx)
 
-tags:
-- Aliyun
-- CentOS
-- Tomcat
-- Nginx
-- ORDS
-- Oracle
-- APEX
-
-
----
 
 ![](https://ws1.sinaimg.cn/large/006By2pOgy1fqy4n04lv1j30s207oaeu.jpg)
 

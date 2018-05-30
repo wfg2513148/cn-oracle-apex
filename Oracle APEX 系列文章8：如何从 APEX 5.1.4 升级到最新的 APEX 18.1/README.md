@@ -1,21 +1,5 @@
----
-title: Oracle APEX 系列文章8：如何从 APEX 5.1.4 升级到最新的 APEX 18.1
-copyright: true
-type: categories
-date: 2018-05-29 21:10:18
-categories:
-- Oracle
-- Oracle APEX
+# Oracle APEX 系列文章8：如何从 APEX 5.1.4 升级到最新的 APEX 18.1
 
-tags:
-- Oracle
-- APEX
-- CentOS
-- Tomcat
-- Nginx
-- ORDS
-
----
 
 
 ![](https://ws1.sinaimg.cn/large/006By2pOgy1frsj7crfv1j30mu0dw75b.jpg)
