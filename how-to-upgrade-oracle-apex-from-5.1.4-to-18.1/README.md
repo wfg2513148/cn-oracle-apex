@@ -2,21 +2,21 @@
 
 <!-- TOC depthFrom:2 insertAnchor:true -->
 
-- [Introduction](#Introduction)
-- [Preparation](#Preparation)
-  - [Generate Configuration](#Upload-installation-media)
-  - [Upgrade JDK/JRE 1.8](#Upgrade-JDK/JRE-1.8)
-  - [Upgrade Tomcat Server](#Upgrade-Tomcat-Server)
-- [Upgrade APEX 18.1](#Upgrade-APEX-18.1)
-  - [Execute installation of APEX 18.1](#Execute-installation-of-APEX-18.1)
+- [Introduction](#introduction)
+- [Preparation](#preparation)
+  - [Generate Configuration](#upload-installation-media)
+  - [Upgrade JDK/JRE 1.8](#upgrade-jdk/jre-1.8)
+  - [Upgrade Tomcat Server](#upgrade-tomcat-server)
+- [Upgrade APEX 18.1](#upgrade-apex-18.1)
+  - [Execute installation of APEX 18.1](#execute-installation-of-apex-18.1)
   - [Copy apex static files to tomcat folder](#copy-apex-static-files-to-tomcat-folder)
-- [Upgrade ORDS 18.1](#Upgrade-ORDS-18.1)
-  - [Execute installation of ORDS](#Execute-installation-of-ORDS)
-  - [Deploy ords.war to Tomcat](#deploy-ords.war-to-Tomcat)
-  - [Validate ORDS deployment](#Validate-ORDS-deployment)
-- [Nginx Configiration (optional)](#Nginx-Configiration-(optional))
-- [Test your environment](#Test-your-environment)
-- [Conclution](#Conclution)
+- [Upgrade ORDS 18.1](#upgrade-ords-18.1)
+  - [Execute installation of ORDS](#execute-installation-of-ords)
+  - [Deploy ords.war to Tomcat](#deploy-ords.war-to-tomcat)
+  - [Validate ORDS deployment](#validate-ords-deployment)
+- [Nginx Configiration (optional)](#nginx-configiration-(optional))
+- [Test your environment](#test-your-environment)
+- [Conclution](#conclution)
 
 
 
