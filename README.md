@@ -2,6 +2,8 @@
 
 本项目为钢哥个人博客上的 Oracle APEX 文章索引列表，旨在收集整理有关 Oracle APEX 的使用技巧与心得。
 
+![](https://camo.githubusercontent.com/47f99616c8a6cf0a0869f9e28f00fc56d08f56d8/68747470733a2f2f7773312e73696e61696d672e636e2f6c617267652f303036427932704f6c79316672396e7538656c64786a3331723131356f776b762e6a7067)
+
 - [Oracle APEX 系列文章1：Oracle APEX, 让你秒变全栈开发的黑科技](https://wangfanggang.com/Oracle/Oracle-APEX/apex-series-1/)
 - [Oracle APEX 系列文章2：在阿里云上打造属于你自己的APEX完整开发环境 (准备工作)](https://wangfanggang.com/Oracle/Oracle-APEX/apex-series-2/)
 - [Oracle APEX 系列文章3：在阿里云上打造属于你自己的APEX完整开发环境 (安装CentOS, Tomcat, Nginx)](https://wangfanggang.com/Oracle/Oracle-APEX/apex-series-3/)
@@ -11,5 +13,6 @@
 - [Oracle APEX 系列文章7：Oracle APEX 18.1 新特性](https://wangfanggang.com/Oracle/Oracle-APEX/apex-series-7/)
 - [Oracle APEX 系列文章8：如何从 APEX 5.1.4 升级到 最新的 APEX 18.1](https://wangfanggang.com/Oracle/Oracle-APEX/apex-series-8/)
 
+---
 
 ![王方钢 | Oracle APEX Evangelist](https://ws1.sinaimg.cn/large/006By2pOly1fr2d34nurfj3076076gm2.jpg)
