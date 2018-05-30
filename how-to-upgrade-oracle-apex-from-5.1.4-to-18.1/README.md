@@ -16,7 +16,7 @@
   - [Validate ORDS deployment](#validate-ords-deployment)
 - [Nginx Configiration (optional)](#nginx-configiration-optional)
 - [Test your environment](#test-your-environment)
-- [Conclution](#conclution)
+- [Conclusion](#conclusion)
 
 
 
@@ -275,5 +275,5 @@ Login APEX with your workspace, all applications are there. Perfect!!
 
 
 
-## Conclution
+## Conclusion
 Now you have successfully upgraded your earlier version of APEX to the latest version 18.1. 
