@@ -21,6 +21,7 @@
 
 <!-- /TOC -->
 
+![](https://ws1.sinaimg.cn/large/006By2pOgy1fruiiqvzmzj30y20jckdi.jpg)
 
 本文是一篇关于 Oracle APEX 的译文，原文在[这里](https://apex.oracle.com/en/platform/why-oracle-apex/)。
 
