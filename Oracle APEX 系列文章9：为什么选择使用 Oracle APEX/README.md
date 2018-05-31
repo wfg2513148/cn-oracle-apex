@@ -1,6 +1,8 @@
 # Oracle APEX 系列文章9：为什么选择使用 Oracle APEX
 
 
+![](https://ws1.sinaimg.cn/large/006By2pOgy1fruiiqvzmzj30y20jckdi.jpg)
+
 <!-- TOC depthFrom:2 insertAnchor:true -->
 
 - [为什么选择使用 Oracle APEX](#oracle-apex-系列文章9为什么选择使用-oracle-apex)
@@ -21,7 +23,6 @@
 
 <!-- /TOC -->
 
-![](https://ws1.sinaimg.cn/large/006By2pOgy1fruiiqvzmzj30y20jckdi.jpg)
 
 本文是一篇关于 Oracle APEX 的译文，原文在[这里](https://apex.oracle.com/en/platform/why-oracle-apex/)。
 
