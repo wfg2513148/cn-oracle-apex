@@ -1,7 +1,26 @@
-# 为什么选择使用 Oracle APEX
-@(我的笔记本)[APEX, Oracle]
+# Oracle APEX 系列文章9：为什么选择使用 Oracle APEX
 
-[toc]
+
+<!-- TOC depthFrom:2 insertAnchor:true -->
+
+- [为什么选择使用 Oracle APEX](#为什么选择使用-oracle-apex)
+  - [简单](#简单)
+  - [功能强大且经过验证](#功能强大且经过验证)
+  - [便携性](#便携性)
+- [为什么我应该使用 Oracle APEX ？](#为什么我应该使用-oracle-apex-)
+  - [您是 Oracle 数据库现有客户吗？](#您是-oracle-数据库现有客户吗)
+  - [您是 Oracle Forms 客户吗？](#您是-oracle-forms-客户吗)
+  - [您是否经常被要求提供技术解决方案，但是有些工具难以学习和使用呢？](#您是否经常被要求提供技术解决方案但是有些工具难以学习和使用呢)
+  - [您是一个专业的全栈开发人员吗？](#您是一个专业的全栈开发人员吗)
+  - [您是 Oracle DBA 吗？](#您是-oracle-dba-吗)
+  - [您是学生吗？](#您是学生吗)
+  - [您是商业用户吗？](#您是商业用户吗)
+  - [架构师和首席信息官（CIO）](#架构师和首席信息官cio)
+- [结语](#结语)
+
+
+<!-- /TOC -->
+
 
 本文是一篇关于 Oracle APEX 的译文，原文在[这里](https://apex.oracle.com/en/platform/why-oracle-apex/)。
 
