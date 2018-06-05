@@ -1,4 +1,4 @@
-Oracle APEX Evangelion（EVA 补完计划）
+# Oracle APEX Evangelion（EVA 补完计划）
 
 ![](https://ws1.sinaimg.cn/large/006By2pOgy1frya0g0k66j31bk0nye81.jpg)
 
@@ -28,7 +28,6 @@ Oracle APEX Evangelion（EVA 补完计划）
 - [Interactive Grid: Under the Hood](http://hardlikesoftware.com/weblog/2016/06/08/interactive-grid-under-the-hood/) `2016.06`
 
 
-<!-- more -->
 
 
 ## Interactive Report
