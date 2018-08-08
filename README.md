@@ -8,8 +8,11 @@
 
 # Oracle APEX Learning Resources
 ## Interactive Grid
+- [How to unmark the Row Selector of the first record in the Interactive Grid in APEX 18.1](http://descubriendooracle.blogspot.com/2018/07/como-desmarcar-el-row-selector-del.html) `2018.07`
+- [Cross Row Interactive Grid Cascading LOVs](http://www.explorer.uk.com/cross-row-interactive-grid-cascading-lovs/) `2018.07`
 - [Disabling Interactive Grid Columns](http://www.explorer.uk.com/disabling-interactive-grid-columns/) `2018.05`
 - [Oracle APEX Interactive Grid Cheat Sheet](Oracle%20APEX%20%28Application%20Express%29%20Interactive%20Grid%20Cheat%20Sheet) `2018.03`
+- [Using the Context Menu and buttons, right click on grid / right click on grid / oracle apex](https://aflorestorres.blogspot.com/2018/02/usando-el-context-menu-y-botones-click.html) `2018.02`
 - [APEX 5.2 Clipboard](http://hardlikesoftware.com/weblog/2018/02/08/apex-5-2-clipboard/) `2018.02`
 - [APEX and IG validation](http://lschilde.blogspot.com/2017/12/interactive-grid-validation.html) `2017.12`
 - [How to customize toolbar buttons](https://svenweller.wordpress.com/2017/10/27/apex-5-1-interactive-grids-how-to-customize-toolbar-buttons/) `2017.10`
@@ -28,6 +31,7 @@
 - [Interactive Grid: Under the Hood](http://hardlikesoftware.com/weblog/2016/06/08/interactive-grid-under-the-hood/) `2016.06`
 
 
+<!-- more -->
 
 
 ## Interactive Report
@@ -42,7 +46,6 @@
 - [Interactive Report with a Font Awesome edit icon](https://www.apex-at-work.com/2016/07/interactive-report-with-font-awesome.html?utm_source=twitterfeed&utm_medium=twitter&m=1) `2016.07`
 - [Substitution Strings for IR Headers](http://blog.simplyapex.com/2016/07/substitution-strings-for-ir-headers.html?m=1) `2016.07`
 - [Reset Interactive Report (IR)](https://www.apex-at-work.com/2016/06/reset-interactive-report-ir.html?utm_source=twitterfeed&utm_medium=twitter&m=1) `2016.06`
-- [APEX Master (Interactive Report) - Detail (Modal Dialog) Form: Conditional Column Link](https://www.apex-at-work.com/2016/06/apex-master-interactive-report-detail.html) `2016.06`
 - [APEX Master (Interactive Report) - Detail (Modal Dialog) Form: Conditional Column Link](https://www.apex-at-work.com/2016/06/apex-master-interactive-report-detail.html) `2016.06`
 - [Using dynamic tooltips in your Interactive Report](https://www.apex-at-work.com/2016/05/using-dynamic-tooltips-in-your.html) `2016.05`
 - [Flag images in Apex reports and select lists](https://dickdral.blogspot.com/2016/05/flag-images-in-apex-reports-and-select.html?m=1) `2016.05`
@@ -144,8 +147,10 @@
 
 
 ## Tree
+- [APEX Widget: treeView](https://apex.oracle.com/pls/apex/apex_pm/r/520052/files/static/v56/jsdoc/treeView.html) `2018.03`
 - [Add Checkbox Selection to APEX Tree Region](http://hardlikesoftware.com/weblog/2017/04/12/add-checkbox-selection-to-apex-tree-region/) `2017.04`
 - [Working with the Apex 5 treeview](https://ora-00001.blogspot.com/2016/01/working-with-the-apex-5-treeview.html) `2016.01`
+- [APEX 5.0 Converting to the new APEX Tree](http://hardlikesoftware.com/weblog/2015/05/01/apex-5-0-converting-to-the-new-apex-tree/) `2015.05`
 
 
 ## Shuttle
@@ -193,10 +198,13 @@
 
 ## Map
 - [Oracle APEX Interactive reports and google maps integration](http://lschilde.blogspot.com/2018/05/oracle-apex-interactive-reports-and.html) `2018.05`
+- [Maps with LeafLet adding stylo css to message](https://aflorestorres.blogspot.com/2017/10/mapas-con-leaflet-agregando-stylo.html) `2017.10`
+- [Maps with LeafLet and get the current location with JavaScript + Oracle APEX](https://aflorestorres.blogspot.com/2017/09/mapas-con-leaftleft-y-obtener-la.html) `2017.09`
 - [Introduction to Implementing Google Maps in Oracle APEX Applications](http://farzadsoltani.com/2017/02/07/implementing-google-maps-oracle-apex/) `2017.02`
 
 
 ## Email
+- [Mail Dropped](https://fuzziebrain.com/content/id/1704/) `2017.08`
 - [Email made Easier](https://jeffkemponoracle.com/2016/04/19/email-made-easier/) `2016.04`
 - [APEX_MAIL To Send a E-Mail & HTML Format link In APEX](http://www.trymebuddy.com/2015/11/apex_mail-to-send-a-e-mail-html-format-link-in-apex/) `2015.11`
 - [HOW TO SEND MAIL FROM ORACLE APEX](http://asgor.net/how-to-send-mail-from-oracle-apex/) `2015.10`
@@ -222,23 +230,27 @@
 
 
 ## Plugins
+- [How to integrate and use plug-in in Apex / Alertify + Oracle Apex + JavaScript (notifications / alerts)](https://aflorestorres.blogspot.com/2018/07/como-integrar-y-usar-plug-in-en-apex.html) `2018.07`
 - [How to mimic the APEX Builder profile menu with FOEX plugins](http://blog.tryfoexnow.com/how-to-mimic-the-apex-builder-profile-menu-with-foex-plugins/) `2017.05`
 - [Google Map APEX Plugins](https://jeffkemponoracle.com/2016/02/google-map-apex-plugins/) `2016.02`
 - [APEX 5.0 Packaged Application Plugins](http://www.explorer.uk.com/packaged-app-plugins/) `2015.09`
 
 
 ## Login
+- [Facebook, Google and Custom Authentication in the same Oracle APEX 18.1 app](http://dgielis.blogspot.com/2018/06/facebook-google-and-custom.html) `2018.06`
+- [APEX Social Sign-In Without a Wallet](https://fuzziebrain.com/content/id/1711/index.html) `2018.05`
 - [APEX Login Background Image Cover](http://www.grassroots-oracle.com/2017/08/apex-login-background-image-cover.html) `2017.08`
 - [APEX Login Page - Video Background](http://richarddacre.postach.io/post/apex-login-page-video-background) `2017.08`
-- [APEX Login Background Image Cover](http://www.grassroots-oracle.com/2017/08/apex-login-background-image-cover.html) `2017.08`
 - [Avoiding multiple logins from external Apex links](https://dickdral.blogspot.com/2017/06/avoiding-multiple-logins-from-external.html) `2017.06`
 - [Customising APEX 5.0 workspace login](http://www.grassroots-oracle.com/2015/12/customising-apex-50-workspace-login.html) `2015.12`
-- [Customising APEX 5.0 workspace login](http://www.grassroots-oracle.com/2015/12/customising-apex-50-workspace-login.html?m=1) `2015.12`
 - [Custom image on your APEX app login page](http://dgielis.blogspot.com/2015/09/custom-image-on-your-apex-app-login-page.html) `2015.09`
 - [APEX 5.0: pimping the Login page](http://dgielis.blogspot.com/2015/03/apex-50-pimping-login-page.html) `2015.03`
 
 
 ## Session
+- [Error!?! What's going in APEX? The easiest way to Debug and Trace an Oracle APEX session](http://dgielis.blogspot.com/2018/06/error-whats-going-in-apex-easiest-way.html) `2018.06`
+- [APEX 18.1: Debugging of the APEX sessions was never easier](http://apexbyg.blogspot.com/2018/06/apex-181-debugging-of-apex-sessions-was.html) `2018.06`
+- [APEX 18.1: Generate URL checksum outside APEX session](http://apexbyg.blogspot.com/2018/06/apex-181-generate-url-checksum-outside.html) `2018.06`
 - [How to debug/trace APEX session](http://apexbyg.blogspot.com/2017/08/how-to-debugtrace-apex-session.html) `2017.08`
 - [Apex 5 session cloning](https://svenweller.wordpress.com/2017/02/08/apex-5-1-session-cloning/) `2017.02`
 - [Setting item session state using AJAX in APEX 5](http://apexbyg.blogspot.com/2016/11/setting-item-session-state-using-ajax.html) `2016.11`
@@ -258,10 +270,13 @@
 
 
 ## REST & JSON
+- [How to implement web services in Oracle Apex](http://www.apexexplorer.com/how-to-implement-web-services-in-oracle-apex/) `2018.07`
+- ["ORA-22902: CURSOR expression not allowed" in ORDS and APEX and how to fix them](http://dgielis.blogspot.com/2018/07/ora-22902-cursor-expression-not-allowed.html) `2018.07`
 - [One Thing You Need To Do Before Calling apex_web_service.make_rest_request](https://www.talkapex.com/2018/05/one-thing-you-need-to-do-before-calling-apex-web-service-make-rest-request/) `2018.05`
 - [ORDS and APEX – Common REST definitions at last](http://douggault.com/2018/02/23/ords-and-apex-common-rest-definitions-at-last/) `2018.02`
 - [Tips for parsing JSON in APEX](https://blogs.oracle.com/apex/tips-for-parsing-json-in-apex) `2018.02`
 - [Oracle APEX and RESTful API standards](http://lschilde.blogspot.com/2017/10/oracle-apex-and-restful-api-standards.html) `2017.10`
+- [Oracle APEX and REST Without the Pain](https://fuzziebrain.com/content/id/1706/) `2017.09`
 - [APEX Basic REST authentication](https://ruepprich.wordpress.com/2017/07/25/apex-basic-rest-authentication/) `2017.07`
 - [APEX REST: Two Separate SQL Queries, One RESTful Endpoint](https://likeahouseafire.com/2017/03/08/apex-rest-two-queries-one-endpoint/) `2017.03`
 - [Making & Consuming REST Web Services using ORDS & APEX](http://www.explorer.uk.com/making-consuming-rest-web-services-using-ords-apex/) `2016.08`
@@ -287,7 +302,14 @@
 
 
 ## Javascript & AJAX
+- [TypeScript and Oracle APEX](https://apextips.blogspot.com/2018/07/typescript-and-apex.html) `2018.07`
+- [APEX_ITEM Part 3 Automatically saving the values ​​of an apex_item with Ajax + Oracle Apex + Jquery](https://aflorestorres.blogspot.com/2018/07/apexitem-parte-3-guardando.html) `2018.07`
+- [APEX_ITEM Part 2 Saving Check Boxes with Ajax and maintaining the value in paging + Oracle Apex + Jquery](https://aflorestorres.blogspot.com/2018/06/apexitem-parte-2-guardando-check-boxes.html) `2018.06`
+- [APEX_ITEM Part 1 Saving Check Boxes with APEX_APPLICATION.G_F01 in reports + Oracle Apex](https://aflorestorres.blogspot.com/2018/06/apexitem-parte-1-guardando-check-boxes.html) `2018.06`
+- [SQL query result as JavaScript array](https://apexutil.blogspot.com/2018/05/sql-query-result-as-javascript-array.html) `2018.03`
+- [Write High Quality JavaScript Code for Oracle Application Express](https://fuzziebrain.com/content/id/1708/) `2017.11`
 - [JavaScript async/await in APEX](http://vmorneau.me/javascript-async-await/) `2017.09`
+- [Show images from table / Carousel / Call Ajax / jQuery](https://aflorestorres.blogspot.com/2017/06/4545.html) `2017.06`
 - [AJAX programming in Application Express](https://apex.oracle.com/pls/apex/germancommunities/apexcommunity/tipp/3341/index-en.html) `2017.01`
 - [Using APEX Javascript Events](http://vmorneau.me/using-apex-javascript-events/) `2017.07`
 - [APEX AND ES6 - ARROW FUNCTIONS](http://www.modernapex.co.uk/apex-and-es6-arrow-functions/) `2016.12`
@@ -310,6 +332,7 @@
 
 ## Dynamic Action
 - [Delete a Row of a Report with a Dynamic Action](https://jackiemcilroy.blogspot.com/2018/03/delete-row-of-report-with-dynamic-action.html) `2018.03`
+- [Correct use / Timing Items to Return in Dynamic Actions (AJAX) Oracle Apex](https://aflorestorres.blogspot.com/2018/02/uso-correcto-timing-items-to-return-en.html) `2018.02`
 - [Dynamic Navigation Bar (Table Based and Custom Settings)](https://arun2p.wordpress.com/2017/03/31/dynamic-navigation-bar/) `2017.03`
 - [Sync or Async? Dynamic Actions in Application Express 5.1](https://apex.oracle.com/pls/apex/germancommunities/apexcommunity/tipp/5741/index-en.html) `2016.12`
 - [Synchronous Dynamic Actions in APEX 5.1](http://www.grassroots-oracle.com/2016/06/synchronous-dynamic-actions-in-apex-51.html?m=1) `2016.06`
@@ -320,12 +343,16 @@
 
 
 ## Security
+- [TWO-Factor Authentication with APEX application](https://apexutil.blogspot.com/2018/07/two-factor-authentication-with-apex.html) `2018.07`
+- [Authenticate using OAuth2 - Now Available in APEX 5.2 EA](https://fuzziebrain.com/content/id/1709/) `2018.01`
+- [Authenticate APEX via Token](http://www.oracle-and-apex.com/authenticate-apex-via-token/) `2018.01`
 - [ORDS, OAuth2 & Web Services in APEX – Part 3](http://www.explorer.uk.com/ordsoauth2-web-services-in-apex-part-3/) `2018.01`
 - [ORDS, OAuth2 & Web Services in APEX – Part 2](http://www.explorer.uk.com/ordsoauth2-web-services-in-apex-part-2/) `2017.11`
 - [ORDS, OAuth2 & Web Services in APEX – Part 1](http://www.explorer.uk.com/web-services-part-1/) `2017.10`
-- [Authenticate APEX via Token](http://www.oracle-and-apex.com/authenticate-apex-via-token/) `2018.01`
 - [Using multiple Authentication Schemes for your APEX application](http://roelhartman.blogspot.com/2017/10/using-multiple-authentication-schemes.html) `2017.10`
+- [Real Uptime Monitoring of Oracle APEX Instances](https://fuzziebrain.com/content/id/1705/) `2017.08`
 - [Create a Custom Authentication and Authorization Scheme in Oracle APEX](http://dgielis.blogspot.com/2017/08/create-custom-authentication-and.html) `2017.08`
+- [APEX, HTTPS, certificates and the Oracle Wallet](https://blogs.oracle.com/apex/apex-https-certificates-and-the-oracle-wallet) `2017.06`
 - [APEX Version Control & Team Working](http://www.explorer.uk.com/apex-version-control-team-working/) `2017.01`
 - [Using views with check option in APEX to protect your data](https://warp11.nl/2016/05/using-views-with-check-option-in-apex-to-protect-your-data/?utm_source=twitterfeed&utm_medium=twitter) `2016.05`
 - [How to set up IIS as SSL proxy for utl_http in Oracle XE](https://ora-00001.blogspot.com/2016/04/how-to-set-up-iis-as-ssl-proxy-for-utl-http-in-oracle-xe.html) `2016.04`
@@ -346,18 +373,51 @@
 
 
 ## Docker
+- [Oracle Database & APEX Developer Docker Image](https://github.com/Dani3lSun/docker-db-apex-dev) `2018.07`
 - [Docker Oracle and APEX](https://www.talkapex.com/2017/10/docker-oracle-and-apex/index.html) `2017.10`
 - [Dockerize your APEX development environment](http://roelhartman.blogspot.com/2017/10/dockerize-your-apex-development.html) `2017.10`
 
 ## Installation
+- [Installing ORDS + Apache Tomcat in Windows 10 - Oracle Apex](https://aflorestorres.blogspot.com/2018/04/instalando-ords-apache-tomcat-en.html) `2018.04`
 - [Oracle Database XE, APEX, ORDS, Tomcat and httpd on CentOS 7: all-in-one guide - introduction](http://dsavenko.me/oracledb-apex-ords-tomcat-httpd-centos7-all-in-one-guide-introduction/) `2018.03`
 - [Oracle Database XE, APEX, ORDS, Tomcat and httpd on CentOS 7: all-in-one guide - part two](http://dsavenko.me/oracledb-apex-ords-tomcat-httpd-centos7-all-in-one-guide-part-two/) `2018.03`
 - [Oracle Database XE, APEX, ORDS, Tomcat and httpd on CentOS 7: all-in-one guide - part one](http://dsavenko.me/oracledb-apex-ords-tomcat-httpd-centos7-all-in-one-guide-part-one/) `2018.03`
 - [Oracle Database XE, APEX, ORDS, Tomcat and httpd on CentOS 7: all-in-one guide - part three](http://dsavenko.me/oracledb-apex-ords-tomcat-httpd-centos7-all-in-one-guide-part-three/) `2018.03`
+- [Install and Configure Oracle Application Express Apex 5.1.1,5.x with Embedded PL/SQL Gateway](https://aflorestorres.blogspot.com/2017/06/3.html) `2017.06`
 - [Oracle Application Express (APEX) 5.x Installation](https://oracle-base.com/articles/misc/oracle-application-express-apex-5-0-installation) `2017.03`
 
 
+## Integration
+- [Integrating Oracle JET 5.1 + Apache Tomcat and Oracle Apex 5.1 / 18.1 + Ords + Local Machine](https://aflorestorres.blogspot.com/2018/08/integrando-oracle-jet-51-apache-tomcat.html) `2018.08`
+- [Integrating Oracle JET v5.1 in Oracle Apex + Jet TimeLine and PictoChart](https://aflorestorres.blogspot.com/2018/07/integrando-oracle-jet-v51-en-oracle.html) `2018.07`
+- [ORACLE APEX with MySQL!](https://apexutil.blogspot.com/2018/07/oracle-apex-with-mysql.html) `2018.07`
+- [Single Sign-On for Oracle Application Express (APEX) applications](https://www.edocr.com/v/lv1rvxvx/nielsdebruijn/Single-Sign-On-for-Oracle-Application-Express-APEX) `2018.07`
+- [Oracle APEX – Amazon ALEXA integration WITHOUT Amazon Lambda ! (PART 2)](https://apexutil.blogspot.com/2018/03/oracle-apex-amazon-alexa-integration_28.html) `2018.03`
+- [Oracle APEX – Amazon ALEXA integration WITHOUT Amazon Lambda ! (PART 1)](https://apexutil.blogspot.com/2018/03/oracle-apex-amazon-alexa-integration.html) `2018.03`
+
+
+## Mobile
+- [APEX as a PWA: The Complete Guide](http://vmorneau.me/apex-pwa/) `2018.08`
+- [APEX as a PWA: Part 1: Introducing PWA](http://vmorneau.me/apex-pwa-part1/) `2018.08`
+- [APEX as a PWA: Part 2: Setup and Development Tips](http://vmorneau.me/apex-pwa-part2/) `2018.08`
+- [APEX as a PWA: Part 3: JavaScript Recap](http://vmorneau.me/apex-pwa-part3/) `2018.08`
+- [APEX as a PWA: Part 4: Installing an APEX App into a Mobile Device](http://vmorneau.me/apex-pwa-part4/) `2018.08`
+- [APEX as a PWA: Part 5: Using an APEX App Offline](http://vmorneau.me/apex-pwa-part5/) `2018.08`
+- [APEX as a PWA: Part 6: Handling Background Sync](http://vmorneau.me/apex-pwa-part6/) `2018.08`
+- [APEX as a PWA: Part 7: Sending Push Notifications](http://vmorneau.me/apex-pwa-part7/) `2018.08`
+- [APEX as a PWA: Part 8: Final Thoughts](http://vmorneau.me/apex-pwa-part8/) `2018.08`
+
 ## Others
+- [APEX 18.2 Statement of Direction](http://www.grassroots-oracle.com/2018/08/apex-182-statement-of-direction.html) `2018.08`
+- [Easy XLSX Parser: Just with SQL and PL/SQL](https://blogs.oracle.com/apex/easy-xlsx-parser:-just-with-sql-and-plsql) `2018.08`
+- [Installing APEX Packaged Applications – the easy way !](http://www.oracle-and-apex.com/installing-apex-packaged-applications-the-easy-way/) `2018.08`
+- [APEX Application for Managing Other APEX Application Properties in Your Workspace](http://www.explorer.uk.com/apex-application-for-managing-other-apex-application-properties-in-your-workspace/) `2018.08`
+- [Simplify Oracle E-Business Suite Development - Think Oracle APEX](https://insum.ca/simplified-cost-effective-development-in-ebs-think-oracle-apex/) `2018.07`
+- [Snippets Apex Oracle, JavaScript, Css, / Code of daily use](https://aflorestorres.blogspot.com/2018/06/snippets-apex-oracle-javascript-css.html) `2018.06`
+- [ODTUG Kscope18 Deep Dive – Javascript in APEX – do it the right way](http://dietmaraust.com/odtug-kscope18-deep-dive-javascript-in-apex-do-it-the-right-way) `2018.06`
+- [Automatically capture all errors and context in your APEX application](https://dgielis.blogspot.com/2018/06/automatically-capture-all-errors-and.html) `2018.06`
+- [Check inside your APEX application if debug mode is enabled](https://www.apex-at-work.com/2018/06/check-inside-your-apex-application-if.html) `2018.06`
+- [Adding an Auto Save Feature to an APEX Page](http://www.explorer.uk.com/adding-an-auto-save-feature-to-an-apex-page/) `2018.06`
 - [Create formatted Excel file from your APEX cloud application](https://dickdral.blogspot.com/2018/05/create-formatted-excel-file-from-your.html) `2018.05`
 - [Oracle Apex cache](http://telegra.ph/Oracle-Apex-cache-05-16-2) `2018.05`
 - [APEX_STRING: String-Operationen leicht gemacht!](https://blogs.oracle.com/apexcommunity_deutsch/apex_string:-string-operationen-leicht-gemacht) `2018.05`
@@ -366,10 +426,10 @@
 - [Thoughts about the APEX_UTIL package](https://ora-00001.blogspot.com/2018/03/thoughts-about-the-apex-util-package.html) `2018.03`
 - [Introducing APEX TabLock](http://www.explorer.uk.com/introducing-apex-tablock/) `2018.01`
 - [Keep the APEX builder tab and application tab in the same Firefox window](https://apextips.blogspot.com/2017/10/keep-apex-builder-tab-and-application.html) `2017.10`
-- [Positioning items next to each other](https://dickdral.blogspot.com/2016/09/positioning-items-next-to-each-other.html?m=1) `2016.09`
 - [How to add a toolbar to an APEX page](http://menn.ooo/how-to-add-a-toolbar-to-an-apex-page/) `2017.09`
 - [Bulk loading a template APEX application in a single workspace](https://apextips.blogspot.com/2017/08/bulk-loading-template-apex-application.html) `2017.08`
 - [Alternative to prepare_url](http://davidsgale.com/alternative-to-prepare_url/) `2017.08`
+- [Download Txt File from oracle database using Apex PL-SQL process](https://aflorestorres.blogspot.com/2017/06/emos-habilitado-la-deteccion-automatica.html) `2017.06`
 - [Read XLXS Files from APEX 5.0 and Higher – One (or Two) Ways](https://thtechnology.com/2017/06/14/read-xlxs-files-from-apex-5-0-and-higher-one-or-two-ways/) `2017.06`
 - [APEX Client-Side Validation](http://hardlikesoftware.com/weblog/2017/05/10/apex-client-side-validation/) `2017.05`
 - [Changing the status of an Oracle Apex application with pl/sql](https://emoracle.wordpress.com/2017/03/31/changing-the-status-of-an-oracle-apex-application-with-plsql/) `2017.03`
@@ -382,6 +442,7 @@
 - [Open a windows directory from inside your APEX application (IE, Firefox, Chrome)](https://www.apex-at-work.com/2016/11/open-windows-directory-from-inside-your.html) `2016.11`
 - [APEX 5.1: Show custom application icons in APEX Builder](http://roelhartman.blogspot.com/2016/10/apex-51-nf-show-custom-application.html) `2016.10`
 - [APEX URLs and HTML need not be in your SQL report queries](https://apextips.blogspot.com/2016/10/apex-urls-and-html-need-not-be-in-your.html?utm_source=twitterfeed&utm_medium=twitter&m=1) `2016.10`
+- [Positioning items next to each other](https://dickdral.blogspot.com/2016/09/positioning-items-next-to-each-other.html?m=1) `2016.09`
 - [Restore screen position after refresh](http://rimblas.com/blog/2016/09/video-005-save-screen-position-after-refresh/) `2016.09`
 - [How to set hotkeys for buttons in Oracle Apex](http://nhasko.blogspot.com/2016/08/how-to-set-hotkeys-for-buttons-in.html?m=1) `2016.08`
 - [Apex page call stack](https://svenweller.wordpress.com/2016/07/21/apex-page-call-stack/?utm_source=twitterfeed&utm_medium=twitter) `2016.07`
@@ -400,8 +461,8 @@
 - [Automated export and import of APEX applications via command line](https://apex.oracle.com/pls/apex/germancommunities/apexcommunity/tipp/4901/index.html) `2016.03`
 - [Add browser recognition on page inline CSS](https://www.apex-at-work.com/2016/03/add-browser-recognition-in-page-inline.html?m=1) `2016.03`
 - [Apex API – call a package for all your DML](https://jeffkemponoracle.com/2016/02/apex-api-call-a-package-for-all-your-dml/) `2016.02`
-- [Accepting payments with Stripe in APEX, Part 3](https://apextips.blogspot.com/2016/02/accepting-payments-with-stripe-in-apex_27.html) `2016.02`
 - [Running an Oracle APEX application against MongoDB](http://robert-schaefer.blogspot.com/2016/02/running-oracle-apex-application-against.html) `2016.02`
+- [Accepting payments with Stripe in APEX, Part 3](https://apextips.blogspot.com/2016/02/accepting-payments-with-stripe-in-apex_27.html) `2016.02`
 - [Accepting payments with Stripe in APEX, Part 2](https://apextips.blogspot.com/2016/02/accepting-payments-with-stripe-in-apex_26.html) `2016.02`
 - [Accepting payments with Stripe in APEX, Part 1](https://apextips.blogspot.com/2016/02/accepting-payments-with-stripe-in-apex.html) `2016.02`
 - [BUILDING AN ANGULARJS PAGE IN APEX](http://www.modernapex.co.uk/building-an-angular-js-page-in-apex/) `2016.01`
@@ -442,6 +503,7 @@
 
 
 # Oracle Learning Library
+- [Oracle Application Express Hands-On Labs](http://www.oracle.com/technetwork/developer-tools/apex/learnmore/apex-hols-2578401.html) `New`
 - [Transitioning to Oracle Application Express 5.1](http://www.oracle.com/webfolder/technetwork/tutorials/obe/db/apex/r51/transtoapex5.1/index.html)
 - [Installing and Running a Packaged Application in Oracle Application Express 5.1](http://www.oracle.com/webfolder/technetwork/tutorials/obe/db/apex/r51/packagedapp/index.html)
 - [Adding Charts to your Existing Database Application in Oracle Application Express 5.1](http://www.oracle.com/webfolder/technetwork/tutorials/obe/db/apex/r51/charts/charts.html)
@@ -473,6 +535,7 @@
 
 
 # Oracle APEX Active Blogs
+- [https://blogs.oracle.com/apex/](https://blogs.oracle.com/apex/)
 - [http://vmorneau.me](http://vmorneau.me)
 - [http://rimblas.com/blog](http://rimblas.com/blog)
 - [http://apexbyg.blogspot.sg](http://apexbyg.blogspot.sg)
@@ -495,6 +558,7 @@
 - [https://ora-00001.blogspot.sg](https://ora-00001.blogspot.sg)
 - [https://apextips.blogspot.sg](https://apextips.blogspot.sg)
 - [http://spendolini.blogspot.sg](http://spendolini.blogspot.sg)
+- [https://fuzziebrain.com/](https://fuzziebrain.com)
 - [https://wangfanggang.com](https://wangfanggang.com)
 
 ---
